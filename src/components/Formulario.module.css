@@ -1,0 +1,15 @@
+.formulario input {
+  width: 50%;
+  padding: 0.25rem;
+  border-radius: 0.25rem;
+  margin-top: 0.5rem;
+  box-shadow: 5px 5px 1px;
+}
+
+.formulario button {
+  background: rgb(4, 245, 88);
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  margin-top: 1rem;
+}
